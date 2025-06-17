@@ -1,4 +1,4 @@
-# Terraform Learning Project-terraform
+# Terraform Learning Project-Terraform
 
 This project is a structured, hands-on journey through the most important topics in **Terraform**, built to deepen my understanding and serve as a personal reference.
 It includes step-by-step explorations, practical setups, and advanced concepts — all explained and applied in a real-world context.
